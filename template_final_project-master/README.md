@@ -1,20 +1,14 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
-## CS110 B1 Final Project  << Semester, Year >>
+# Super Snake Game 
+## CS110 B1 Final Project Fall , 2024 
 
 ## Team Members
 
-<< List team member names >>
-
-***
-
 ## Project Description
 
-<< Give an overview of your project >>
-
-***    
+This game is a recreation of the popular game, Snake. There will be a snake who has to go around and eat it's food and it has to try and get as big as possible without running into a wall or running into itself. 
 
 ## GUI Design
 
@@ -30,11 +24,11 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. Move the snake using the keys
+2. Snake must eat food to continue growing
+3. If snake runs into the wall, game over
+4. If snake runs into itself, game over
+5. Scoreboard to track the score (how much food snake has ate)
 
 ### Classes
 
