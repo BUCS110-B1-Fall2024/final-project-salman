@@ -5,10 +5,10 @@
 ## CS110 B1 Final Project Fall , 2024 
 
 ## Team Members
-
+Salman Rahman
 ## Project Description
 
-This game is a recreation of the popular game, Snake. There will be a snake who has to go around and eat it's food and it has to try and get as big as possible without running into a wall or running into itself. 
+This game is a recreation of the popular game, Snake. There will be a snake who has to go around and eat it's food and it has to try and get as big as possible without running into a wall or running into itself. I have also added a fun feature at the end of the game where you can read a random fun fact. 
 
 ## GUI Design
 
